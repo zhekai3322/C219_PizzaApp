@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import ReactDOM from 'react-dom';
 import './style.css';
 
-// Pizza data
+// Pizza datas
 const pizzas = [
   {
     id: 1,
